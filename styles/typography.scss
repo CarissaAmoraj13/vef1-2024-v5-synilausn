@@ -1,0 +1,13 @@
+/* Typography */
+html {
+    font-size: var(--font-size-base);
+  }
+  
+  h1, h2, h3, legend {
+    font-family: var(--font-family-heading);
+  }
+  
+  body {
+    font-family: var(--font-family-base);
+  }
+  

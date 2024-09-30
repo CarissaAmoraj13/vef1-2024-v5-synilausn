@@ -1,0 +1,23 @@
+/* Variables and settings */
+:root {
+    --font-size-base: 16px;
+    --font-size-headings: 1.5rem;
+  
+    /* Spacing */
+    --spacing: 1rem;
+    --vertical-space: calc(var(--gutter) * 1);
+    --gutter: 30px;
+    --max-width: 1200px;
+  
+    /* Colors */
+    --color-yellow: #f3dd99;
+    --color-purple: #eebbdd;
+  
+    /* Font families */
+    --font-family-base: 'Open Sans', Arial, Helvetica, sans-serif;
+    --font-family-heading: 'Matemasie-Regular', 'Comic Sans MS', cursive;
+  
+    /* Transition settings */
+    --transition-time-short: 300ms;
+  }
+  
